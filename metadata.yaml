@@ -1,0 +1,44 @@
+_repo: Talvi-iltain-tarinoita-3Suomen-herttuatar.-Kulta-aave._38533
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Jäämaa, Ilmari
+    aliases:
+    - Ilmari Jäämaa
+    - Jaamaa, Ilmari
+    gutenberg_agent_id: '39420'
+    url: http://www.gutenberg.org/2009/agents/39420
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Topelius, Zacharias
+    aliases:
+    - Topelius, Sakarias
+    - Topelius, Zakarias
+    - Topelius, Zachris
+    - Topelius, Zakris
+    birthdate: 1818
+    deathdate: 1898
+    gutenberg_agent_id: '6545'
+    url: http://www.gutenberg.org/2009/agents/6545
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Zachris_Topelius
+    - http://fi.wikipedia.org/wiki/Zacharias_Topelius
+description: Translations of "Hertiginnan af Finland" and "Det gyllene spöket".
+gutenberg_issued: '2012-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38533'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcc 'PT'
+title: 'Talvi-iltain tarinoita 3
+
+  Suomen herttuatar. Kulta-aave.'
+url: http://www.gutenberg.org/ebooks/38533
